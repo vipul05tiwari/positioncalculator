@@ -21,4 +21,4 @@ If Transaction Type =S ,
                                 For AccountType=I, Quantity=Quantity + TransactionQuantity
 </pre>                                
 
-<a href="url">link text</a>
+<a href="https://github.com/vipul05tiwari/positioncalculator/tree/master/src/main/resources">Sample</a> Position, Transaction and EOD Position File
